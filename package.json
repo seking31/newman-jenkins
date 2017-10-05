@@ -7,7 +7,7 @@
     "test": "tests"
   },
   "scripts": {
-    "test": "newman run tests/Jsonplaceholder.com.postman.collection.json"
+    "api-test-production": "newman run tests/Jsonplaceholder.com.postman.collection.json"
   },
   "repository": {
     "type": "git",
